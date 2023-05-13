@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/AnnaTorresRiv/InterfazdeGoogle/blob/main/README.md#1-intro)
 * [2. Qué contruí](https://github.com/AnnaTorresRiv/InterfazdeGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/AnnaTorresRiv/InterfazdeGoogle/blob/main/README.md#objetivo-del-proyecto)
 
 ***
 
@@ -22,5 +22,5 @@ En este proyecto me enfoqué en construir la clonación de la interfaz de Google
 
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## Objetivo del Proyecto
+## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquietas estándar de HTML5 y los estilos de CSS3.
