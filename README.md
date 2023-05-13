@@ -1,9 +1,9 @@
-# Interfaz de Google
+# Clonación del Interfaz de Google
 
 ## ÍNDICE
 
 * [1. Intro](https://github.com/AnnaTorresRiv/InterfazdeGoogle/blob/main/README.md#1-intro)
-* [2. Qué contruí](#)
+* [2. Qué contruí](https://github.com/AnnaTorresRiv/InterfazdeGoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
 * [3. Objetivo del proyecto](#)
 
 ***
