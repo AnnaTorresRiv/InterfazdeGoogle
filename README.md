@@ -1,4 +1,4 @@
-# InterfazdeGoogle
+# Interfaz de Google
 
 ## ÍNDICE
 
